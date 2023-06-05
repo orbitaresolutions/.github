@@ -10,12 +10,12 @@ A Orbitare é uma agência de web design especialista em criar e-commerces e sit
 
 Embora nossos projetos sejam privados e restritos aos membros da equipe, aqui você encontrará informações sobre a nossa organização e áreas de atuação. Estamos constantemente embarcando em jornadas emocionantes para transformar conceitos abstratos em realidade tangível.
 
-## Nosso Foco
+## 🚀 Nosso Foco
 
-- E-commerces (mercado shops e Wake)
+- E-commerces (Mercado shops e Wake)
 - Sites institucionais
 
-## Saiba Mais
+## 🚀 Saiba Mais
 
 Para obter mais informações sobre a Orbitare e descobrir como podemos ajudar a impulsionar seu negócio, visite nosso site oficial: [www.orbitaresolutions.com.br](https://orbitaresolutions.com.br/).
 

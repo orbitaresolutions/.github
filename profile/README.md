@@ -17,6 +17,6 @@ Embora nossos projetos sejam privados e restritos aos membros da equipe, aqui vo
 
 ## 🚀 Saiba Mais
 
-Para obter mais informações sobre a Orbitare e descobrir como podemos ajudar a impulsionar seu negócio, visite nosso site oficial: [www.orbitaresolutions.com.br](https://orbitaresolutions.com.br/).
+Para obter mais informações sobre a Orbitare e descobrir como podemos ajudar a impulsionar seu negócio, visite nosso site oficial: [https://orbitaresolutions.com.br](https://orbitaresolutions.com.br/).
 
 Junte-se a nós nesta jornada pelo espaço da inovação e prepare-se para alcançar novas fronteiras!
